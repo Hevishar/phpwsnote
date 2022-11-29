@@ -42,7 +42,7 @@ ducvuhuu@channelvn.net / MSKF@jg9837jNSJF
 }
 ```
 
-## php js tool cd link
+## Php js tool cd link
 
 http://cdn.hevivu.cyou/cd-php-tool.js
 
