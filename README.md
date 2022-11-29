@@ -44,9 +44,16 @@ ducvuhuu@channelvn.net / MSKF@jg9837jNSJF
 
 ## Php js tool cd link
 
-http://cdn.hevivu.cyou/cd-php-tool.js
+Add Extension to Browser:
 
-## date format
+- [Chrome](https://chrome.google.com/webstore/detail/run-javascript/lmilalhkkdhfieeienjbiicclobibjao)
+- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/javascript/)
+
+Copy script to your extension to run:
+
+- [Get Script](http://cdn.hevivu.cyou/cd-php-tool.js)
+
+## Date format
 
 {{date('H:i , d/m/Y',strtotime($item->CreatedDate))}}
 
@@ -107,7 +114,9 @@ php artisan module:make-component Home/HighLight Mobile
   </div>
 </div>
 
-<a href="javascript:;" class="list__viewmor list__center" title="Xem thêm">Xem thêm</a>
+<a href="javascript:;" class="list__viewmor list__center" title="Xem thêm"
+  >Xem thêm</a
+>
 
 <div class="configHidden">{!!$ZoneInfoClientScript!!}</div>
 ```
