@@ -1,5 +1,11 @@
 # PHP WS NOTE
 
+## Bài tường thuật bóng đá
+2 dạng bài tường thuật cũ và ms:
+ - config diomain thanh niên
+ - cũ call api bên thanh niên
+ - mới call api bên mình
+
 ## Format ThumbImage
 
 ```php
