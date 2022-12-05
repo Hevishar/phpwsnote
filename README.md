@@ -7,7 +7,7 @@
 
 {{UserInterfaceHelper::formatThumbZoom($categoryInfo->Logo,300,188)}}
 
-$value->AvatarVertical = !empty($value->Avatar2) ? UserInterfaceHelper::formatThumbWidth($value->Avatar2 ,$imgW, $imgH) : '';
+$value->AvatarVertical = !empty($value->Avatar2) ? UserInterfaceHelper::formatThumbWidth($value->Avatar2 ,$imgW) : '';
 
 $value->AvatarSquare = !empty($value->Avatar5) ? UserInterfaceHelper::formatThumbZoom($value->Avatar5,$imgW, $imgH) : '';
 ```
