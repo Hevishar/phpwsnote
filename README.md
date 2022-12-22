@@ -28,7 +28,7 @@ huuduc1/Kldowl90298892919!@392334
 
 ducvuhuu@channelvn.net / MSKF@jg9837jNSJF
 
-![alt text](![image](https://user-images.githubusercontent.com/61931560/207207030-f6418eee-3b1b-4e1c-aa7f-598f8ac73b45.png)
+![alt text](![image](https://user-images.githubusercontent.com/61931560/207207030-f6418eee-3b1b-4e1c-aa7f-598f8ac73b45.png) )***
 
 #### 3. FTP
 
