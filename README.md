@@ -59,7 +59,7 @@ Add Extension to Browser:
 
 Copy script to your extension to run:
 
-- [Get Script](http://cdn.hevivu.cyou/cd-php-tool.js)
+- [Get Script](http://cdn.hevivu.cyou/root/cd-php-tool.js)
 
 ## Date format
 
